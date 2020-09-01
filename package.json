@@ -1,0 +1,25 @@
+{
+  "name": "multiplayer-game",
+  "version": "1.0.0",
+  "description": "my first game multiplayer, tutorial by Filipe Deschamps",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissasouto/game-mulitplayer.git"
+  },
+  "author": "larissasouto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larissasouto/game-mulitplayer/issues"
+  },
+  "homepage": "https://github.com/larissasouto/game-mulitplayer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socketio": "^1.0.0"
+  }
+}
